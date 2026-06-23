@@ -16,7 +16,7 @@ The app displays a random quote with its author every time the user clicks the "
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
+* JavaScript
 * Bootstrap
 * Font Awesome
 
